@@ -50,16 +50,26 @@ Sidebar and tabs
 
 The sidebar has several tabs. You can collapse the sidebar then drag any table out into its own window. This is especially useful for combat. 
 
-**Bubble:** The chat tab, where the dice rolling will happen.
-** Fist:** The combat tracker. 
-**Group of People:** The Actors you can see in the game; your own PC and any minions are here, and can be edited when you click on them.
-**The Briefcase:** The game's items. The GM may put special items here and you can reference them.
-**Open Book:** Journal entries for the scene. You can even create your own. 
-**Tables:** Randomized tables. You probably don't need to worry about this. 
-**Music:** Music settings. I don't use music.
-**Book:** Compendiums. These are groups of items or actors that have been shared with you. They include spells, feats, actors, items, and macros. This is a *great* area to look up spells, conditions, etc. 
-**Gears:** Player settings. You can change the UI skin, help solve frame rate issues, and other basic options. 
-**Arrow**: Collapses Menu
+Bubble 
+  The chat tab, where the dice rolling will happen.   
+Fist 
+  The combat tracker.   
+Group of People 
+  The Actors you can see in the game; your own PC and any minions are here, and can be edited when you click on them.
+The Briefcase 
+  The game's items. The GM may put special items here and you can reference them.
+Open Book 
+  Journal entries for the scene. You can even create your own. 
+Tables 
+  Randomized tables. You probably don't need to worry about this. 
+Music 
+  Music settings. I don't use music.
+Book 
+  Compendiums. These are groups of items or actors that have been shared with you. They include spells, feats, actors, items, and macros. This is a *great* area to look up spells, conditions, etc. 
+Gears 
+  Player settings. You can change the UI skin, help solve frame rate issues, and other basic options. 
+Arrow 
+  Collapses Menu
 
 .. raw:: html
 
@@ -201,11 +211,11 @@ You can edit hit points to track them in combat. To do so:
 1. Open character sheet
 2. Add your Level
 3. Add your Constitution
-3. Add your Ancestry HP
-4. Add your Class HP
-5. Add your bonus HP and Bonus HP/level (Toughness, etc)
-6. Add your Current HP (match the Total HP)
-7. You should see a full health bar under your token
+4. Add your Ancestry HP
+5. Add your Class HP
+6. Add your bonus HP and Bonus HP/level (Toughness, etc)
+7. Add your Current HP (match the Total HP)
+8. You should see a full health bar under your token
 
 .. raw:: html
 
