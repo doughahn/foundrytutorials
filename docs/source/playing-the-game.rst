@@ -52,6 +52,10 @@ Drawing Shapes
 
 You can draw boxes, squiggles, text, and more:
 
+.. raw:: html
+
+  <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/insignificantsociableanglerfish?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 ***********************************
 Journal Notes
 ***********************************
