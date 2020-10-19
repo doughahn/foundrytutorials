@@ -34,7 +34,8 @@ Play Area Overview
 
 Foundry operates within a canvas, or play area. There are three main areas you need to be concerned about as a player: the Canvas Layer Tools, the Sidebar and its Tabs, and the Macro and players area. 
 
-.. image:: _static/images/playeravatardefault.png
+.. image:: _static/images/fvtt-ui-map-2020-05-24.jpg
+
 
 Canvas Layer Tools
 ====================================
@@ -79,7 +80,7 @@ Arrow
 Macros and Player Area
 ====================================
 
-Here you can adjust ;:ref:`Macros`_ and see the people in the game. 
+Here you can adjust :ref:`Macros` and see the people in the game. 
 
 ***********************************
 Player Avatars
@@ -87,7 +88,7 @@ Player Avatars
 
 After logging in, you will be directed to choose your player avatar. The default is a mysterious, hooded person. I tend to make players trusted, so you can upload your own character avatar. 
 
-.. image:: _static/images/fvtt-ui-map-2020-05-24.jpg
+.. image:: _static/images/playeravatardefault.png
 
 Uploading a new Avatar Image
 ====================================
