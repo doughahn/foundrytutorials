@@ -86,9 +86,14 @@ Here you can adjust :ref:`Macros` and see the people in the game.
 Player Avatars
 ***********************************
 
-After logging in, you will be directed to choose your player avatar. The default is a mysterious, hooded person. I tend to make players trusted, so you can upload your own character avatar. 
+After logging in, you will be directed to choose your player avatar. The default is a mysterious, hooded person. I tend to make players trusted, so you can upload your own character avatar. If the GM has already set up a PC for you (in most cases I do), you can click "save configuration" and your token will be highlighted. 
 
-.. image:: _static/images/playeravatardefault.png
+.. image:: _static/images/playeravatardefault2.png
+
+You can also click on the "Playr Color" option to select a custom color for your character. This color will be used whne you draw on the screen, etc. 
+
+.. image:: _static/images/selectcolor.png
+
 
 Uploading a new Avatar Image
 ====================================
